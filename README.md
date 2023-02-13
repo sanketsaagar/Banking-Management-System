@@ -16,6 +16,5 @@ https://github.com/sanketsaagar/Banking-Management-System/blob/b2512aeb1ebca2e1b
 
 <br>
 Step 1:- Go to https://remix.ethereum.org/ and create a new file under workspace as shown in the fig below
-
-
+<img src = https://github.com/sanketsaagar/Banking-Management-System/blob/938060056e08b4133650176fa88f852b5ba535d4/step%201.png>
 
