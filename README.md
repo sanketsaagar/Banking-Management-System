@@ -18,4 +18,5 @@ https://github.com/sanketsaagar/Banking-Management-System/blob/b2512aeb1ebca2e1b
 Step 1:- Go to https://remix.ethereum.org/ and create a new file with your desired <b> 'Name'</b> under workspace as shown in the fig. below
 <img src = https://github.com/sanketsaagar/Banking-Management-System/blob/938060056e08b4133650176fa88f852b5ba535d4/step%201.png>
 
+Step 2:- Paste the code provided in <a href="https://github.com/sanketsaagar/Banking-Management-System/blob/92e46016129458cb82206539a28a13fa4123980b/BankManagement.sol">BankManagement.sol</a> file and make sure it shows green symbol in the Solidity compiler section.
 </br>
