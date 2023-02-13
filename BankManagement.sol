@@ -14,4 +14,16 @@ contract SskBank{
     function deposit() public payable{
         balance[msg.sender] = balance[msg.sender] + msg.value;
     }
+
+    // Withdraw function
+    function Withdraw(uint _amount) public{
+        balance[msg.sender] = balance[msg.sender] - _amount;
+        payable(msg.sender).transfer(_amount);
+    }
+
+    // Transfer function
+    function transfer(address _to, uint _amount) public{
+        balance[msg.sender] = balance[msg.sender] - _amount;
+        balance[_to] = balance[_to] + _amount;
+    }
 }
