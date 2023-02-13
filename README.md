@@ -24,6 +24,6 @@ https://github.com/sanketsaagar/Banking-Management-System/blob/b2512aeb1ebca2e1b
 </br>
 
 
-<b>Step 3:-</b> Go to <b>'Deploy and Run'</b>section and click on <b>'Deploy'</b> button and you will see your contract has been deployed under <h4> Deployed Contract</h4>section and also you will see a transaction hash under terminal section where you can click on <b>Debug</b>button to check the details of the transaction.
+<b>Step 3:-</b> Go to <b>'Deploy and Run'</b>section and click on <b>'Deploy'</b> button and you will see your contract has been deployed under <b> Deployed Contract</b>section and also you will see a transaction hash under terminal section where you can click on <b>Debug</b>button to check the details of the transaction.
 
-<img src = >
+<img src = https://github.com/sanketsaagar/Banking-Management-System/blob/b159faca68aa71a54845d8182c6df5b3f91a8420/step%203.png>
