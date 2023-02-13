@@ -12,7 +12,7 @@ https://github.com/sanketsaagar/Banking-Management-System/blob/b2512aeb1ebca2e1b
   </a>
 </p>
 
-### Below I have mentioned step by step how one can execute the code.
+### Below I have mentioned step by step how one can execute the code.:walking_man:
 
 
 
