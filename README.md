@@ -11,8 +11,8 @@ https://github.com/sanketsaagar/Banking-Management-System/blob/b2512aeb1ebca2e1b
     <img src="https://skillicons.dev/icons?i=solidity" />
   </a>
 </p>
- <br>
- Below I have mentioned step by step how one can execute the code.
- </br>
+
+### Below I have mentioned step by step how one can execute the code.
+
 
 
