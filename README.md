@@ -2,13 +2,11 @@
 
 # You have came across Banking Management System
 
-<<<<<<< HEAD
 ## I have provided the code snippet below
 
-=======
 ## Here I have provided the code snippit below
 https://github.com/sanketsaagar/Banking-Management-System/blob/b2512aeb1ebca2e1bd778cb9d962a4df0e76d70c/BankManagement.sol#L8-L29
->>>>>>> 4967649f83abcc025a0a20b0af40e2dec8bd9027
+
  A Project work on Banking Management System
 
 
