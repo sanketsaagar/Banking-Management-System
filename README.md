@@ -14,5 +14,8 @@ https://github.com/sanketsaagar/Banking-Management-System/blob/b2512aeb1ebca2e1b
 
 ### Below I have mentioned step by step how one can execute the code.:walking_man:
 
+<br>
+Step 1:- Go to https://remix.ethereum.org/ and create a new file under workspace as shown in the fig below
+
 
 
