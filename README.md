@@ -2,7 +2,7 @@
 
 # You have came across Banking Management System
 
-## Here I have provided the code snippit below
+## I have provided the code snippet below
 
  A Project work on Banking Management System
 
