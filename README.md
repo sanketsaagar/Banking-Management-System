@@ -3,7 +3,7 @@
 # You have came across Banking Management System
 
 ## Here I have provided the code snippit below
-https://github.com/sanketsaagar/Banking-Management-System/blob/a5d075424a464b5bb70ba93e571ba605caecfee1/BankManagement.sol
+
  A Project work on Banking Management System
 
 
