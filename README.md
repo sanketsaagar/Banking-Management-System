@@ -6,7 +6,7 @@
 https://github.com/sanketsaagar/Banking-Management-System/blob/b2512aeb1ebca2e1bd778cb9d962a4df0e76d70c/BankManagement.sol#L8-L29
 
 ### Language Used
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=solidity" />
   </a>
